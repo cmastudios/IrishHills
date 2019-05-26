@@ -1,0 +1,128 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+body {
+	margin: 0 auto;
+	min-width: 50em;
+	min-height: 100vh;
+
+	display: flex;
+	flex-direction: column;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+}
+main {
+	flex: 1;
+}
+footer.body {
+	display: flex;
+	flex: 0;
+	justify-content: space-around;
+	padding: 1em 0;
+	background-color: gray;
+	color: white;
+}
+
+img.hero {
+	width: 100%;
+	object-fit: cover;
+	height: 100vh;
+}
+
+menu {
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	margin: 0;
+
+	height: 100px;
+	background-color: rgb(27,26,28);
+
+	display: flex;
+	align-items: center;
+}
+
+menu li {
+	pointer-events: none;
+}
+
+menu li:hover, menu li.active {
+	background-color: white;
+}
+
+menu a {
+	pointer-events: auto;
+	text-decoration: none;
+	color: white;
+}
+
+menu li.active a {
+	color: black;
+}
+
+menu a:hover {
+	color: blue;
+}
+
+menu h1, menu ul, menu header, menu nav {
+	height: inherit;
+}
+
+menu header, menu ul {
+	display: table;
+}
+
+
+menu h1, menu li {
+	display: table-cell;
+	vertical-align: middle;
+	padding: 0 1em;
+}
+
+menu h1, menu li {
+	margin: 0 auto;
+}
+
+
+nav > ul {
+	list-style-type: none;
+}
+
+main {
+	margin-top: 6rem;
+}
+
+main article {
+	max-width: 50rem;
+	margin: 0 auto;
+	padding: 4em 0;
+}
+
+article p {
+	padding: 1em 0;
+}
+
+article h1 {
+	padding: 2em 0 0 0;
+}
+
+img.hero {
+	margin-top: -6rem;
+}
+
+footer {
+}
+
+article img {
+	width: 100%;
+}
+
+td.rate-1 {
+	padding-right: 1em;
+}
+td.rate-2 {
+	text-align: center;
+}

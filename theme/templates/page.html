@@ -1,0 +1,25 @@
+{% extends "base.html" %}
+{% block html_lang %}{{ page.lang }}{% endblock %}
+
+{% block title %}{{ SITENAME }} - {{ page.title }}{%endblock%}
+
+{% block head %}
+  {{ super() }}
+{% endblock %}
+
+{% block content %}
+	<main>
+	{% if page.hero %}
+	<img src="{{ SITEURL}}/images/{{page.hero}}" class="hero">
+	{% endif %}
+	<article>
+	{{ page.content }}
+	</article>
+
+	{% if page.modified %}
+		<p>
+		Last updated: {{ page.locale_modified }}
+		</p>
+	{% endif %}
+	</main>
+{% endblock %}

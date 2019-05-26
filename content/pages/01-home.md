@@ -1,6 +1,8 @@
 Title: Home
+hero: BoatLaunch.JPG
 URL:
 save_as: index.html
+
 
 *Where the two Nianguas meet, a step above camping*
 

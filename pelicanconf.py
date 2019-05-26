@@ -36,6 +36,8 @@ DEFAULT_PAGINATION = 10
 
 #JINJA2CONTENT_TEMPLATES = "../templates"
 
+THEME = 'theme'
+
 PLUGIN_PATHS = ['plugins']
 PLUGINS = ["jinja2content"]
 

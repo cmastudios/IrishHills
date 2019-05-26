@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="{% block html_lang %}{{ DEFAULT_LANG }}{% endblock html_lang %}">
+<head>
+        {% block head %}
+        <title>{% block title %}{{ SITENAME }}{% endblock title %}</title>
+        <meta charset="utf-8" />
+		<link rel="stylesheet" href="{{ SITEURL }}/theme/css/style.css">
+		<script src="{{ SITEURL}}/theme/js/aesthetic.js"></script>
+        {% endblock head %}
+</head>
+
+<body id="index" class="home">
+		<menu id="navbar">
+        <header id="banner" class="body">
+			<h1><a href="{{ SITEURL }}/">{{ SITENAME }}</a></h1>
+        </header><!-- /#banner -->
+        <nav id="menu"><ul>
+		{% for p in pages %}
+		<li{% if p == page %} class="active"{% endif %}>
+			<a href="{{ SITEURL }}/{{ p.url }}">{{ p.title }}</a>
+		</li>
+		{% endfor %}
+        </ul></nav><!-- /#menu -->
+		</menu>
+        {% block content %}
+        {% endblock %}
+        <footer id="contentinfo" class="body">
+			<div>
+				<p>Irish Hills Resort</p>
+
+				<p>Located on the Big Niangua, Lake of the Ozarks<br>
+					256 Irish Hills Dr.<br>
+					Camdenton, MO</p>
+			</div>
+			<div>
+			<table class="rates summer">
+			<thead>
+				<tr><th colspan="2">Summer Rates</th></tr>
+				<tr><th class="rate-1">Beds</th><th class="rate-2">Per-Day</thj</tr>
+			</thead>
+			<tbody>
+			{% include "_summer.html" %}
+			</tbody>
+			</table>
+			</div>
+			<div>
+			<table class="rates winter">
+			<thead>
+				<tr><th colspan="2">Winter Rates</th></tr>
+				<tr><th class="rate-1">Beds</th><th class="rate-2">Per-Day</thj</tr>
+			</thead>
+			<tbody>
+			{% include "_winter.html" %}
+			</tbody>
+			</table>
+			</div>
+        </footer><!-- /#contentinfo -->
+</body>
+</html>
+
