@@ -4,8 +4,11 @@ status: hidden
 url: cottage/ringofkerry.html
 save_as: cottage/ringofkerry.html
 
+Cabin 12 - Ring of Kerry
+======
+
 Pictures
-========
+------
 
 ![Exterior]({static}/images/ringofkerry/1.JPG)
 ![Sign]({static}/images/ringofkerry/2.JPG)

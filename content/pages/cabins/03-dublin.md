@@ -4,8 +4,12 @@ status: hidden
 url: cottage/dublin.html
 save_as: cottage/dublin.html
 
+Cabin 3 - Dublin
+================
+
+
 Pictures
-========
+--------
 
 ![Exterior]({static}/images/dublin/1.JPG)
 ![Exterior]({static}/images/dublin/2.JPG)

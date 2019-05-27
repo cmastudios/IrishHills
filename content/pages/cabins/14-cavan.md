@@ -4,8 +4,11 @@ status: hidden
 url: cottage/cavan.html
 save_as: cottage/cavan.html
 
-Pictures
+Cabin 14 - Cavan
 ========
+
+Pictures
+--------
 
 ![Patio]({static}/images/cavan/1.JPG)
 ![Interior]({static}/images/cavan/2.JPG)

@@ -4,8 +4,11 @@ status: hidden
 url: cottage/waterford.html
 save_as: cottage/waterford.html
 
+Cabin 6 - Waterford
+======
+
 Pictures
-========
+-----
 
 ![Exterior]({static}/images/waterford/1.JPG)
 ![Interior]({static}/images/waterford/2.JPG)

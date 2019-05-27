@@ -4,8 +4,11 @@ status: hidden
 url: cottage/shannon.html
 save_as: cottage/shannon.html
 
+Cabin 4 - Shannon
+=========
+
 Pictures
-========
+--------
 
 ![Sign]({static}/images/shannon/1.JPG)
 ![Exterior]({static}/images/shannon/2.JPG)

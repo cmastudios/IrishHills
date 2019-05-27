@@ -4,8 +4,11 @@ status: hidden
 url: cottage/tralee.html
 save_as: cottage/tralee.html
 
+Cabin 10 - Tralee
+=====
+
 Pictures
-========
+-----
 
 ![Exterior]({static}/images/tralee/1.JPG)
 ![Interior]({static}/images/tralee/2.JPG)

@@ -4,7 +4,9 @@ save_as: features.html
 
 Irish Hills is the vacation spot just for you...
 
-Boat ramp Sail boat and nearby docks Inside of crappie house
+![Boat ramp]({static}/images/BoatLaunch.JPG)
+![Docks]({static}/images/DockandSailboat.JPG)
+![Crappie House]({static}/images/CrappieHouse.JPG)
 
 Irish Hills offers economical vacations with all the amenities for safe, outdoor fun, including:
 
@@ -16,4 +18,5 @@ Irish Hills offers economical vacations with all the amenities for safe, outdoor
 - Satellite television and 4G reception
 - Conveniently located to Camdenton
 
+<style>main img { width: calc(50rem/3); height: calc(50rem/3); float: left; object-fit: cover; } main p { clear: both; }</style>
 

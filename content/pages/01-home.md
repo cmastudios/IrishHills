@@ -3,6 +3,9 @@ hero: BoatLaunch.JPG
 URL:
 save_as: index.html
 
+<div class="order">
+	<a href="reservations.html">Book Now</a>
+</div>
 
 *Where the two Nianguas meet, a step above camping*
 

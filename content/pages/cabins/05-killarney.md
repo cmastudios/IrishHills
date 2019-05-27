@@ -4,8 +4,11 @@ status: hidden
 url: cottage/killarney.html
 save_as: cottage/killarney.html
 
+Cabin 5 - Killarney
+=======
+
 Pictures
-========
+--------
 
 ![Interior]({static}/images/killarney/1.JPG)
 ![Interior]({static}/images/killarney/2.JPG)
