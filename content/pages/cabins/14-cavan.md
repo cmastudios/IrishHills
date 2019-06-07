@@ -10,5 +10,5 @@ Cabin 14 - Cavan
 Pictures
 --------
 
-![Patio]({static}/images/cavan/1.JPG)
-![Interior]({static}/images/cavan/2.JPG)
+![Patio]({static}/images/cavan/1.jpg)
+![Interior]({static}/images/cavan/2.jpg)

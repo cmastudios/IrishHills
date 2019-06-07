@@ -45,6 +45,7 @@ html: prices
 
 clean:
 	[ ! -d $(OUTPUTDIR) ] || rm -rf $(OUTPUTDIR)
+	-rm -f theme/templates/_list.md theme/templates/_summer.html theme/templates/_winter.html
 
 regenerate: prices
 	$(PELICAN) -r $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)

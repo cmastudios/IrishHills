@@ -10,8 +10,8 @@ Cabin 4 - Shannon
 Pictures
 --------
 
-![Sign]({static}/images/shannon/1.JPG)
-![Exterior]({static}/images/shannon/2.JPG)
-![Interior]({static}/images/shannon/3.JPG)
-![Interior]({static}/images/shannon/4.JPG)
-![Interior]({static}/images/shannon/5.JPG)
+![Sign]({static}/images/shannon/1.jpg)
+![Exterior]({static}/images/shannon/2.jpg)
+![Interior]({static}/images/shannon/3.jpg)
+![Interior]({static}/images/shannon/4.jpg)
+![Interior]({static}/images/shannon/5.jpg)

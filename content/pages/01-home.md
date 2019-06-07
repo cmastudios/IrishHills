@@ -1,5 +1,5 @@
 Title: Home
-hero: BoatLaunch.JPG
+hero: BoatLaunch.jpg
 URL:
 save_as: index.html
 

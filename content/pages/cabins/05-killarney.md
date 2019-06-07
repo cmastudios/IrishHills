@@ -10,5 +10,5 @@ Cabin 5 - Killarney
 Pictures
 --------
 
-![Interior]({static}/images/killarney/1.JPG)
-![Interior]({static}/images/killarney/2.JPG)
+![Interior]({static}/images/killarney/1.jpg)
+![Interior]({static}/images/killarney/2.jpg)

@@ -4,9 +4,9 @@ save_as: features.html
 
 Irish Hills is the vacation spot just for you...
 
-![Boat ramp]({static}/images/BoatLaunch.JPG)
-![Docks]({static}/images/DockandSailboat.JPG)
-![Crappie House]({static}/images/CrappieHouse.JPG)
+![Boat ramp]({static}/images/BoatLaunch.jpg)
+![Docks]({static}/images/DockandSailboat.jpg)
+![Crappie House]({static}/images/CrappieHouse.jpg)
 
 Irish Hills offers economical vacations with all the amenities for safe, outdoor fun, including:
 

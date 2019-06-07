@@ -10,6 +10,6 @@ Cabin 8 - Kinsale
 Pictures
 -----
 
-![Exterior]({static}/images/kinsale/1.JPG)
-![Interior]({static}/images/kinsale/2.JPG)
-![Patio]({static}/images/kinsale/3.JPG)
+![Exterior]({static}/images/kinsale/1.jpg)
+![Interior]({static}/images/kinsale/2.jpg)
+![Patio]({static}/images/kinsale/3.jpg)

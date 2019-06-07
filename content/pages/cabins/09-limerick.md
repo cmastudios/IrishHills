@@ -10,5 +10,5 @@ Cabin 9 - Limerick
 Pictures
 -----
 
-![Exterior]({static}/images/limerick/1.JPG)
-![Interior]({static}/images/limerick/2.JPG)
+![Exterior]({static}/images/limerick/1.jpg)
+![Interior]({static}/images/limerick/2.jpg)

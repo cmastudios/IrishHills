@@ -10,8 +10,8 @@ Cabin 6 - Waterford
 Pictures
 -----
 
-![Exterior]({static}/images/waterford/1.JPG)
-![Interior]({static}/images/waterford/2.JPG)
-![Interior]({static}/images/waterford/3.JPG)
-![Interior]({static}/images/waterford/4.JPG)
-![Interior]({static}/images/waterford/5.JPG)
+![Exterior]({static}/images/waterford/1.jpg)
+![Interior]({static}/images/waterford/2.jpg)
+![Interior]({static}/images/waterford/3.jpg)
+![Interior]({static}/images/waterford/4.jpg)
+![Interior]({static}/images/waterford/5.jpg)

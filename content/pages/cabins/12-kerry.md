@@ -10,9 +10,9 @@ Cabin 12 - Ring of Kerry
 Pictures
 ------
 
-![Exterior]({static}/images/ringofkerry/1.JPG)
-![Sign]({static}/images/ringofkerry/2.JPG)
-![Interior]({static}/images/ringofkerry/3.JPG)
-![Interior]({static}/images/ringofkerry/4.JPG)
-![Interior]({static}/images/ringofkerry/5.JPG)
-![Interior]({static}/images/ringofkerry/6.JPG)
+![Exterior]({static}/images/ringofkerry/1.jpg)
+![Sign]({static}/images/ringofkerry/2.jpg)
+![Interior]({static}/images/ringofkerry/3.jpg)
+![Interior]({static}/images/ringofkerry/4.jpg)
+![Interior]({static}/images/ringofkerry/5.jpg)
+![Interior]({static}/images/ringofkerry/6.jpg)

@@ -11,9 +11,9 @@ Cabin 3 - Dublin
 Pictures
 --------
 
-![Exterior]({static}/images/dublin/1.JPG)
-![Exterior]({static}/images/dublin/2.JPG)
-![Interior]({static}/images/dublin/3.JPG)
-![Interior]({static}/images/dublin/4.JPG)
-![Interior]({static}/images/dublin/5.JPG)
-![Patio]({static}/images/dublin/6.JPG)
+![Exterior]({static}/images/dublin/1.jpg)
+![Exterior]({static}/images/dublin/2.jpg)
+![Interior]({static}/images/dublin/3.jpg)
+![Interior]({static}/images/dublin/4.jpg)
+![Interior]({static}/images/dublin/5.jpg)
+![Patio]({static}/images/dublin/6.jpg)

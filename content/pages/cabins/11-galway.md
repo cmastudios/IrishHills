@@ -10,10 +10,10 @@ Cabin 11 - Galway Bay
 Pictures
 -----
 
-![Exterior]({static}/images/galway/1.JPG)
-![Sign]({static}/images/galway/2.JPG)
-![Interior]({static}/images/galway/3.JPG)
-![Interior]({static}/images/galway/4.JPG)
-![Interior]({static}/images/galway/5.JPG)
-![Interior]({static}/images/galway/6.JPG)
-![Interior]({static}/images/galway/7.JPG)
+![Exterior]({static}/images/galway/1.jpg)
+![Sign]({static}/images/galway/2.jpg)
+![Interior]({static}/images/galway/3.jpg)
+![Interior]({static}/images/galway/4.jpg)
+![Interior]({static}/images/galway/5.jpg)
+![Interior]({static}/images/galway/6.jpg)
+![Interior]({static}/images/galway/7.jpg)

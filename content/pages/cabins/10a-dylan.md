@@ -10,5 +10,5 @@ Cabin 10A - Dylan
 Pictures
 -----
 
-![Exterior]({static}/images/dylan/1.JPG)
-![Interior]({static}/images/dylan/2.JPG)
+![Exterior]({static}/images/dylan/1.jpg)
+![Interior]({static}/images/dylan/2.jpg)
